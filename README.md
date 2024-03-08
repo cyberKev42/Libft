@@ -36,3 +36,15 @@ Recreation of some functions of the C standard library as well as some other uti
     • ft_substr.c 
     • ft_tolower.c 
     • ft_toupper.c
+    
+    Bonus functions:
+ 
+    • ft_lstsize.c 
+    • ft_lstadd_back.c 
+    • ft_lstadd_front.c 
+    • ft_lstiter.c 
+    • ft_lstdelone.c 
+    • ft_lstclear.c 
+    • ft_lstlast.c 
+    • ft_lstnew.c 
+    • ft_lstmap.c
